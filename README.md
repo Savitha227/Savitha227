@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Savitha227
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#include<studio.h>
+#include<conio.h>
+#include<stdlib.h>
+#include<str.h>
+main()
+Printf("Enter  the family information ");
+Printf("< person name>,<gender>,<father's name>,<mother's name>");
+ Scanf(" %c,%c,%c,%c",& char);
+Printf("Enter the person name:");
+Scanf("%c",&char);
+Switch() 
+{
+if(his father's sister's daughter)
+ Printf("The boy will match to marry her ");
+elif
+ if(his mother's brother's daughter)
+Printf("The boy will match to marry her");
+elif
+ if (her father's sister's son)
+Printf(" The girl will match to marry him");
+Else
+if(her mother's brother's son)
+Printf("The girl will match to marry him");
+}
 
-<!---
-Savitha227/Savitha227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
